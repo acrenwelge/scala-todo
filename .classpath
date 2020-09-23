@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/scala"/>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.13/3.2.0/scalatest-mustmatchers_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.13/3.2.0/scalatest-mustmatchers_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-mustmatchers_2.13\3.2.0\scalatest-mustmatchers_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.13/3.2.0/scalatest-wordspec_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.13/3.2.0/scalatest-wordspec_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-wordspec_2.13\3.2.0\scalatest-wordspec_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/1.2.0/scala-xml_2.13-1.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/1.2.0/scala-xml_2.13-1.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.13\1.2.0\scala-xml_2.13-1.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-core_2.13/3.2.0/scalatest-core_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-core_2.13/3.2.0/scalatest-core_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-core_2.13\3.2.0\scalatest-core_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.13\1.1.2\scala-parser-combinators_2.13-1.1.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.13/3.2.0/scalatest-funspec_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.13/3.2.0/scalatest-funspec_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-funspec_2.13\3.2.0\scalatest-funspec_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.13/3.2.0/scalactic_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.13/3.2.0/scalactic_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalactic\scalactic_2.13\3.2.0\scalactic_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.13/3.2.0/scalatest-featurespec_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.13/3.2.0/scalatest-featurespec_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-featurespec_2.13\3.2.0\scalatest-featurespec_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.13/3.2.0/scalatest-flatspec_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.13/3.2.0/scalatest-flatspec_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-flatspec_2.13\3.2.0\scalatest-flatspec_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.13/3.2.0/scalatest-freespec_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.13/3.2.0/scalatest-freespec_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-freespec_2.13\3.2.0\scalatest-freespec_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\slf4j\slf4j-api\1.7.26\slf4j-api-1.7.26-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.13/3.2.0/scalatest-matchers-core_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.13/3.2.0/scalatest-matchers-core_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-matchers-core_2.13\3.2.0\scalatest-matchers-core_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.2/scala-logging_2.13-3.9.2.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.2/scala-logging_2.13-3.9.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\com\typesafe\scala-logging\scala-logging_2.13\3.9.2\scala-logging_2.13-3.9.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.13/3.2.0/scalatest-refspec_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.13/3.2.0/scalatest-refspec_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-refspec_2.13\3.2.0\scalatest-refspec_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.13/3.2.0/scalatest_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.13/3.2.0/scalatest_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.13\3.2.0\scalatest_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.13/3.2.0/scalatest-propspec_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.13/3.2.0/scalatest-propspec_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-propspec_2.13\3.2.0\scalatest-propspec_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.13/3.2.0/scalatest-diagrams_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.13/3.2.0/scalatest-diagrams_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-diagrams_2.13\3.2.0\scalatest-diagrams_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.13/3.2.0/scalatest-shouldmatchers_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.13/3.2.0/scalatest-shouldmatchers_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-shouldmatchers_2.13\3.2.0\scalatest-shouldmatchers_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.0/scalatest-compatible-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.0/scalatest-compatible-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-compatible\3.2.0\scalatest-compatible-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.13/3.2.0/scalatest-funsuite_2.13-3.2.0.jar" sourcepath="null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.13/3.2.0/scalatest-funsuite_2.13-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:.\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest-funsuite_2.13\3.2.0\scalatest-funsuite_2.13-3.2.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

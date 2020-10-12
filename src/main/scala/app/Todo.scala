@@ -1,6 +1,6 @@
 package app
 
-class Todo(var description: String, var priority: Int) {
+class Todo(var description: String, var priority: Int,var completed: Boolean) {
     // def description_= (newDescription: String): Unit = {
     //     if (newDescription.length() > 0) description = newDescription
     // }
@@ -8,6 +8,6 @@ class Todo(var description: String, var priority: Int) {
     //     if (newPriority > 0) priority = newPriority
     // }
     override def toString(): String = {
-        s"Todo => priority: $priority - description: $description"
+        s"Todo => priority: $priority - completed? $completed - description: $description"
     }
 }

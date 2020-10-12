@@ -3,6 +3,8 @@
 scalaVersion := "2.13.1"
 
 Global / onChangedBuildSource := ReloadOnSourceChanges
+
+trapExit := false
 // That is, to create a valid sbt build, all you've got to do is define the
 // version of Scala you'd like your project to use.
 

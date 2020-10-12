@@ -15,6 +15,7 @@ import org.mongodb.scala.Observer
 sealed trait UserDAO {
     def insertUser(newUser: User)
     def getUser(username: String): SingleObservable[Document]
+    def getAllUsers(): Observable[Seq[Document]]
     def updateUser(userToUpdate: User)
     def deleteUser(username: String)
 }
@@ -29,12 +30,16 @@ class UserMongo extends UserDAO {
         collection.insertOne(userDoc).subscribe(new Observer[Completed] {
           override def onNext(result: Completed): Unit = println(s"Result: ${result}")
           override def onError(e: Throwable): Unit = println(s"Error trying to add user ${newUser.username}: $e")
-          override def onComplete(): Unit = println("onComplete")
+          override def onComplete(): Unit = None
         })
     }
 
     override def getUser(username: String): SingleObservable[Document] = {
         collection.find(equal("username", username)).first
+    }
+    
+    override def getAllUsers(): Observable[Seq[Document]] = {
+        collection.find().projection(Document("username" -> 1)).collect()
     }
 
     override def updateUser(userToUpdate: User): Unit = {

@@ -1,8 +1,6 @@
 # Scala - Todo App
 
-This is an implementation of a console-based todo application in Scala. To get started, make sure you have `scala` and `sbt` installed, then run `sbt run`.
-
-Features to use:
+This is an implementation of a console-based todo application in Scala. Features to use:
 * `login {username} {password}` - login with username and password
 * `logout`
 * `list {regex}` - list your todos, passing an optional regular expression
@@ -12,6 +10,15 @@ Features to use:
 * `add {description}` - add a todo with the description
   * `--priority` - attach a priority
   * `--tag {tag}` - attach a tag
+
+## Getting Started
+* Add an `app.properties` file in `src/main/resources` and define:
+  * `db.username`
+  * `db.password`
+  * `db.url`
+  * `db.name` (name of the MongoDB cluster)
+* Install `scala` and `sbt`
+* Execute: `sbt run`
 
 ## MongoDB Schema
 
